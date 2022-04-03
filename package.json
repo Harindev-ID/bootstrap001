@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "bootstrap": "^5.1.3"
-  }
+  },
+  "name": "bootstrap-npm",
+  "description": "learn use bootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harindev-ID/bootstrap001.git"
+  },
+  "author": "adityadenny6@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harindev-ID/bootstrap001/issues"
+  },
+  "homepage": "https://github.com/Harindev-ID/bootstrap001#readme"
 }
